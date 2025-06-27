@@ -2,7 +2,8 @@
 
 A sleek and responsive React app that lets you search movies, explore popular titles, and save your favorites — all powered by the TMDB API.
 
-<!-- Replace above with your demo GIF or screenshot -->
+![App Screenshot](./src/assets/Capture.PNG)
+
 
 ## 🚀 Features
 
