@@ -1,12 +1,35 @@
-# React + Vite
+# 🎬 Movie Search Engine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive React app that lets you search movies, explore popular titles, and save your favorites — all powered by the TMDB API.
 
-Currently, two official plugins are available:
+<!-- Replace above with your demo GIF or screenshot -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Search Movies:** Find any movie by title with instant results  
+- 📈 **Popular Movies:** Browse trending and popular films right on the homepage  
+- 💾 **Favorites:** Save your favorite movies for easy access later  
+- 🎨 **Responsive Design:** Works beautifully on desktop and mobile  
+- ⚡ **Fast & Lightweight:** Built with React and optimized for smooth experience  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React (with hooks and functional components)  
+- TMDB (The Movie Database) API  
+- CSS3 / Flexbox for styling  
+- Environment variables for secure API key management  
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or above)  
+- npm or yarn package manager  
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/jerichijer/MovieSearchEngine.git
+cd MovieSearchEngine
