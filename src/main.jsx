@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom'; // we use this instead of BrowserRouter bc Github Pages doesn't support server-side routing 
 import './css/index.css';
 import App from './App.jsx'
 
@@ -8,8 +8,8 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <App />
-    </BrowserRouter>
+    </HashRouter>
   </StrictMode>,
 )
