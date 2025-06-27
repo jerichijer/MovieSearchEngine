@@ -31,5 +31,5 @@ A sleek and responsive React app that lets you search movies, explore popular ti
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/movie-search-engine.git
-cd movie-search-engine
+git clone https://github.com/jerichijer/MovieSearchEngine.git
+cd MovieSearchEngine
